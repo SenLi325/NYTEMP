@@ -24,7 +24,7 @@ textarea {
 }
 
 #full-screen-background-image {
-  background: url("Background.png") no-repeat center center fixed; 
+  background: url("https://s3.amazonaws.com/senli/Background.png") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
